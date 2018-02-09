@@ -1,0 +1,10 @@
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
